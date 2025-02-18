@@ -143,6 +143,3 @@ This CSS creates a responsive navigation bar that:
 2. Switches to a hamburger menu on mobile (below 768px)
 3. Has smooth animations and transitions
 4. Is fully accessible with keyboard navigation
-5. Uses modern CSS features like flexbox and transitions
-
-Each section is carefully styled to ensure good visual hierarchy and user experience across all device sizes.
